@@ -1,0 +1,1 @@
+This is a a page with a searchbox
